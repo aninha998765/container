@@ -1,0 +1,45 @@
+.container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.item
+{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    align-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.oi
+{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    align-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.tudo
+{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    align-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.bem
+{
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    align-content:center;
+    flex-wrap: wrap;
+    align-items: center;
+}
